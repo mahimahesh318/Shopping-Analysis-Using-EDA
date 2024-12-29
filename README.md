@@ -92,13 +92,13 @@ Ensure you have Python 3.x installed along with the following libraries:
 ### Example Visuals:
 
 1. **Sales Trends by Season**  
-   ![Seasonal Trends](visualizations/seasonal_trends.png)
+   ![](Images/output.png)
 
 2. **Demographics and Spending Patterns**  
-   ![Demographics Spending](visualizations/demographics_spending.png)
+   ![](Images/output1.png)
 
 3. **Impact of Discounts**  
-   ![Discount Analysis](visualizations/discount_analysis.png)
+   ![](Images/output3.png)
 
 ---
 
@@ -109,5 +109,4 @@ Ensure you have Python 3.x installed along with the following libraries:
 3. **Location Impact**: Urban areas show a higher frequency of purchases.  
 4. **Promo Effectiveness**: Discounts and promo codes significantly influence customer buying decisions.  
 
----
 
